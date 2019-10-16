@@ -1,1 +1,1 @@
-gem 'hashie'
+require "bundler/setup"
